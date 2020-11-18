@@ -11,3 +11,11 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+h1 {
+  text-align: center;
+  background: black;
+  color: white;
+  padding: 20px;
+  margin-bottom: 30px;
+}
